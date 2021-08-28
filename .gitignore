@@ -1,3 +1,14 @@
+#VS project
+*.suo
+
+
+
+
+
+
+
+# 以下最初からあったもの
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
